@@ -1,0 +1,332 @@
+﻿  main.cpp
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(62,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(62,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(62,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(62,38): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(63,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(63,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(63,32): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(63,32): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(64,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(64,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(64,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(65,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(65,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(65,22): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(66,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(66,32): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(66,32): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(67,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(67,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(67,44): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(67,44): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(68,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(68,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(68,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(68,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(69,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(69,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(69,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(69,34): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(70,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(70,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(70,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(70,34): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(71,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(71,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(71,35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(71,35): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(72,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(72,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(72,48): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(72,48): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(73,7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(73,7): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(73,46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(73,46): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(79,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(79,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(80,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(80,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(81,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(81,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(82,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(82,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(83,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(83,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(84,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(84,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(86,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(86,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(87,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(87,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(88,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(88,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(89,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(89,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(90,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(90,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(91,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(91,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(93,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(93,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(94,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(95,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(96,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(96,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(97,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(97,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(98,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(101,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(102,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(102,7): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(104,7): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(105,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(105,7): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(198,11): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(198,11): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(199,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(199,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(200,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(200,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(203,11): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(203,11): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(204,8): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(204,8): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(205,11): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(205,11): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\functions.hpp(285,24): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(6,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(13,10): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(13,10): warning C4305:         with
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(13,10): warning C4305:         [
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(13,10): warning C4305:             T=float
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(13,10): warning C4305:         ]
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(14,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(64,13): warning C4305: '-=': truncation from 'double' to 'T'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(64,13): warning C4305:         with
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(64,13): warning C4305:         [
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(64,13): warning C4305:             T=float
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(64,13): warning C4305:         ]
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(67,13): warning C4305: '+=': truncation from 'double' to 'T'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(67,13): warning C4305:         with
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(67,13): warning C4305:         [
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(67,13): warning C4305:             T=float
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(67,13): warning C4305:         ]
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(70,12): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(70,12): warning C4305:         with
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(70,12): warning C4305:         [
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(70,12): warning C4305:             T=float
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(70,12): warning C4305:         ]
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(75,17): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(75,17): warning C4244:         with
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(75,17): warning C4244:         [
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(75,17): warning C4244:             T=float
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(75,17): warning C4244:         ]
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(78,26): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(78,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(78,16): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(96,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(114,12): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(114,12): warning C4305:         with
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(114,12): warning C4305:         [
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(114,12): warning C4305:             T=float
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(114,12): warning C4305:         ]
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\main.cpp(123,14): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+  OpenGLplatformerButFor1080p.vcxproj -> C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\x64\Debug\OpenGLplatformerButFor1080p.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,3 @@
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\x64\Debug\OpenGLpl.FBB574B9.Up2Date
+C:\Users\bdown\source\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\x64\Debug\OpenGLplatformerButFor1080p.exe
+D:\VsProjects\repos\OpenGLplatformerButFor1080p\OpenGLplatformerButFor1080p\x64\Debug\OpenGLplatformerButFor1080p.exe
